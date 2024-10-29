@@ -1,0 +1,39 @@
+body {
+    height: 100vh;
+    margin: 0;
+    background-color: whitesmoke;
+}
+
+.container {
+    gap: 20px;
+}
+
+.quadrado{
+    width: 100px;
+    height: 100px;
+}
+.quadrado1 {
+    background-color: red; 
+    position: absolute;
+    left: 100px;
+    top: 100px;
+}
+
+.quadrado2 {
+    background-color: lightgreen; 
+    position: absolute;
+    top: 00px;
+    left: 200px;
+    bottom: 100px;
+}
+
+.quadrado3 {
+    background-color: blue; 
+    position: absolute;
+    top: 0;
+    
+}
+.box{
+    width: 100px;
+    height: 100px;
+}
